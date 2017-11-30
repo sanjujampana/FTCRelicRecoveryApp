@@ -5,4 +5,13 @@ package com.example.sanju_000.ftcrelicrecoveryapp.db;
  */
 
 public class RelicRecovery {
+    //relic recovery variables
+
+    //start screen
+
+    //autonomous
+
+    //tele op
+
+    //endgame
 }
